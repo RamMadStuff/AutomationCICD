@@ -1,0 +1,8 @@
+SeliniumMaven\pageobjects\LandingPage.class
+SeliniumMaven\pageobjects\ProductCatalogue.class
+SeliniumMaven\AbstractComponents\AbstarctComponents.class
+SeliniumMaven\pageobjects\OrderPage.class
+SeliniumMaven\pageobjects\CheckOutPage.class
+SeliniumMaven\pageobjects\ConfirmationPage.class
+SeliniumMaven\resources\ExtentReportsNG.class
+SeliniumMaven\pageobjects\CartPage.class
